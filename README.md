@@ -1,11 +1,11 @@
 # _printf :100:
 
 A formatted output conversion C project completed as part of the low-level
-programming and algorithm track at ALX. The program is a constom creation of the C standard library function, `printf`.
+programming and algorithm track at ALX. The program is a custom creation of the C standard library function, `printf`.
 
 ## Dependencies
 
-The `_printf` function was coded on an Ubuntu 20.04 LTS machine with `gcc` version 11.2.0.
+The `_printf` function was coded on an Ubuntu 20.04 LTS machine with `gcc` version 9.4.0
 
 ## Usage
 
