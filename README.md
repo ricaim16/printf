@@ -19,5 +19,5 @@ under the control of a `format` string that specifies how subsequent arguments
 converted for output.
 
 ## Authors
-* GLORIA MAAJI <[GDesigns49]
-* EMEBET WELAY <[ricaim16]
+* GLORIA MAAJI <[GDesigns49](https://github.com/GDesigns49)
+* EMEBET WELAY <[ricaim16](https://github.com/ricaim16)
