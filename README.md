@@ -1,8 +1,7 @@
 # _printf
 
 A formatted output conversion C project completed as part of the low-level
-programming and algorithm track at ALX. The program is a pseudo-
-recreation of the C standard library function, `printf`.
+programming and algorithm track at ALX. The program is a constom creation of the C standard library function, `printf`.
 
 ## Dependencies
 
@@ -21,8 +20,6 @@ converted for output.
 
 ## Authors
 
-* Grace Effiong <[rubylena](https://github.com/rubylena)
-* Chiedozie Ukah <[dozonalx](https://github.com/dozonalx)
 
 <p align="center">
   <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
