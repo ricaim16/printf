@@ -19,8 +19,5 @@ under the control of a `format` string that specifies how subsequent arguments
 converted for output.
 
 ## Authors
-
-
-<p align="center">
-  <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
-</p>
+* GLORIA MAAJI
+* EMEBET WELAY
